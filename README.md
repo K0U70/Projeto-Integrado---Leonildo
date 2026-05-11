@@ -1,3 +1,10 @@
+## 👥 Equipe
+*   [Kauã Silva Gomes](https://github.com)
+*   [Cauã Silva Rodrigues](https://github.com)
+*   [Larissa Queiroz Coqueiro Silva](https://github.com)
+*   [Thalita Moraes Ferreira](https://github.com)
+
+
 # 📋 Sistema de Cadastro de Clientes e Contatos
 
 Sistema console desenvolvido em **Java** como Projeto Integrador, com foco em estruturas de dados usando matrizes bidimensionais (`String[][]`) e manipulação manual de dados — sem uso de coleções, banco de dados ou arquivos externos.
